@@ -3,7 +3,7 @@ This markdown file contains description of variables mentioned in the final data
 
 The information on pre-processing of the data set provided is described in the features.txt file included in the zip file.  
 
-###The mean and standard deviation of the following features are considered in the analysis
+The mean and standard deviation of the following features are considered in the analysis
   - tBodyAcc-XYZ
   - tGravityAcc-XYZ
   - tBodyAccJerk-XYZ
