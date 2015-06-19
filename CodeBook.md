@@ -3,7 +3,7 @@ This markdown file contains description of variables mentioned in the final data
 
 The information on pre-processing of the data set provided is described in the features.txt file included in the zip file.  
 
-The mean and standard deviation of the following features are considered in the analysis
+####The mean and standard deviation of the following features are considered in the analysis
   - tBodyAcc-XYZ
   - tGravityAcc-XYZ
   - tBodyAccJerk-XYZ
@@ -24,7 +24,7 @@ The mean and standard deviation of the following features are considered in the 
 
 *'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.*
 
-A total of 30 subjects were part of the experiment and their 6 activities were recorded
+####A total of 30 subjects were part of the experiment and their 6 activities were recorded
   1. WALKING
   2. WALKING_UPSTAIRS
   3. WALKING_DOWNSTAIRS
@@ -33,4 +33,5 @@ A total of 30 subjects were part of the experiment and their 6 activities were r
   6. LAYING
   
 There were more than 10,000 observations recorded. The analysis summarises these observations and gives the average reading of mean and standard deviation of each feature listed above for each activity of every subject.
-The final dataset contains a total of 180 rows (excluding the header) and 68 columns.
+
+####The final dataset contains a total of 180 rows (excluding the header) and 68 columns.
